@@ -30,7 +30,7 @@ jobs:
         
     - name: Push docker Image
       run: |
-        docker push panchozelada/docker-graphql:0.0.2 .
+        docker push panchozelada/docker-graphql:0.0.2
 
 
 
